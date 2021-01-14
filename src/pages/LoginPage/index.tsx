@@ -34,7 +34,7 @@ const LoginPage: React.FC = () => {
           </fieldset>
 
           <footer>
-            <button type="submit">Salvar Cadastro</button>
+            <button type="submit">Entrar</button>
 
             <Link to="/signup" className="back-link">
               <FiLogIn size={16} color="e02141" />
